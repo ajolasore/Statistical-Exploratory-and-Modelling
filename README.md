@@ -31,11 +31,15 @@ parameters is intriguing to me as an aspiring data scientist.
 Furthermore, in order to arrive a sizable conclusion, this research would like to answer the following 
 questions;
 
-• What is the relationship between various eating habits and Obesity? 
+• What is the relationship between various eating habits and Obesity?
+
 • What is the relationship between various physical conditions and Obesity? 
+
 • What are the significant differences in obesity observed among gender, smokers, connection to 
 family history, etc.? 
+
 • Can Obesity in terms of Body Mass Index (BMI) be predicted given selected parameters? 
+
 
 ### 1.3 Objectives 
 1. To determine and visualize the relationship between eating habit, physical condition of people and 
